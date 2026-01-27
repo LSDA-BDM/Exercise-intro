@@ -6,13 +6,13 @@ This is a guide for students to setup Git and GitHub for use with GitHub Classro
 
 1. Register for an account on GitHub (https://github.com/) using your **ITU** email address.
 
-1. Install Git.
+1. Install Git:
    
     - Windows: https://gitforwindows.org/
     - Mac should already have it installed if you are running anything above Mavericks (10.9). To see if you if it is installed, open Terminal and type "git --version". If it isn't installed, it will prompt you to install it.
     - Linux, you should already have git, but if not you can install it by running "sudo apt install git-all" or "sudo dnf install git-all".
 
-1. Setup options in Git. Open up a Terminal or Command Prompt and run a couple commands to set up git. The first command is your name, the second command is the email associated with your GitHub account.
+1. Setup Git: open up a Terminal or Command Prompt and run a couple commands to set up git. The first command is your name, the second command is the email associated with your GitHub account.
 
 ```
 git config --global user.name 'Jane Doe'
