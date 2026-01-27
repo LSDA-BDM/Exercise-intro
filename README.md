@@ -4,7 +4,7 @@ This is a guide for students to setup Git and GitHub for use with GitHub Classro
 
 ### Steps for getting setup with GitHub
 
-1. Register for account on GitHub (https://github.com/) using your **ITU** email address.
+1. Register for an account on GitHub (https://github.com/) using your **ITU** email address.
 
 1. Install Git.
    
