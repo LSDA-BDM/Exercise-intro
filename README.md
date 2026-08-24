@@ -1,6 +1,6 @@
 ### Steps for solving exercises and assignments
 
-1. First press the green button on the right called "Use this template".
+1. First press the green button on the right called "Use this template" > "Create a new repository"
 2. Once you have a copy repository, add us as collaborators through **Settings > Collaborators > Add people** > Insert the following emails: msia@itu.dk, jaga@itu.dk, admchai@itu.dk.
 3. You can now open a *codespace* by pressing the button **<> Code**, then click on **Codespaces**, then **Create codespace on main**.
 4. To practice updating the repository, navigate to this README.md file and make a small change (for example add some text).   
